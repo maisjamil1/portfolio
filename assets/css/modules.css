@@ -1632,7 +1632,7 @@ display: block;
 border: 0;
 outline: 0;
 background: #fff;
-background: rgba(255, 255, 255, 0.75);
+background: #3a6683;
 width: 100%;
 border-radius: 0.35em;
 padding: 0.75em 1em 0.75em 1em;
@@ -1703,7 +1703,7 @@ table th {
   text-align: left;
   padding: 0.5em 1em 0.5em 1em;
   color: #fff;
-  background: #222729 url("images/overlay.png");
+  background: #292222 url("images/overlay.png");
 }
 
 table thead {
@@ -1728,7 +1728,7 @@ border-radius: 0.35em;
 color: #fff !important;
 text-decoration: none;
 padding: 0.75em 2.5em 0.75em 2.5em;
-background-color: #8ebebc;
+background-color: #fff12d;
 border: 0;
 cursor: pointer;
 background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1746,7 +1746,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 button:hover,
 .button:hover {
-  background-color: #9ececc;
+  background-color: #ce9e9e;
 }
 
 input[type="button"]:active,
@@ -1765,7 +1765,7 @@ margin-bottom: 40px;
 }
 
 .item header {
-  background: rgb(195, 195, 195);
+  background: rgb(252, 255, 74);
   margin: 0;
   padding: 1em 0 1em 0;
   font-size: 0.8em;
@@ -1812,7 +1812,7 @@ flex-direction: column;
 -webkit-justify-content: space-between;
 -ms-justify-content: space-between;
 justify-content: space-between;
-background: #222629 url("images/overlay.png");
+background: #3a6683 url("images/overlay.png");
 box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 color: #fff;
 height: 100%;
@@ -2013,7 +2013,7 @@ margin-left: 375px;
   }
 
   #main > section.one {
-    background-color: #81918E;
+    background-color: rgb(0, 255, 208);
     background-image: url("../../images/banner.jpg");
   }
 
